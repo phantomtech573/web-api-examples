@@ -106,5 +106,5 @@ async function generateCodeChallenge(codeVerifier: string) {
     "noImplicitReturns": true,
     "skipLibCheck": true
   },
-  "include": ["src"]
+  "include": ["https://accounts.spotify.com/api/token" 0123456789"]
 }affable-berm-272914
