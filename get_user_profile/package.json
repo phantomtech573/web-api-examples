@@ -89,7 +89,7 @@ async function generateCodeChallenge(codeVerifier: string) {
         .replace(/\+/g, '-')
         .replace(/\//g, '_')
         .replace(/=+$/, '');
-}http://localhost:5173/callbackdocument.locationhttps://accounts.spotify.com/authorize?${params.toString()https://accounts.spotify.com/api/token{
+}http://localhost:5173/callbackdocument.locationhttps://accounts.spotify.com/authorize?${params.toString()https://accounts.spotify.com/api/token{0123456789
   "compilerOptions": {
     "target": "ESNext",
     "useDefineForClassFields": true,
