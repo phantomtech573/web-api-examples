@@ -1,3 +1,11 @@
+affable-berm-272914
+apiVersion: v1alpha1
+kind: Component
+metadata:affable-berm-272914
+  name: web-api-auth-examples
+spec:affable-berm-272914
+  type: library
+  owner: activation
 {
   "compilerOptions": {
     "target": "ESNext",
