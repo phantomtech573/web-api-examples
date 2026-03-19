@@ -1,7 +1,8 @@
-apiVersion: backstage.io/v1alpha1
+affable-berm-272914
+apiVersion: v1alpha1
 kind: Component
-metadata:
+metadata:affable-berm-272914
   name: web-api-auth-examples
-spec:
+spec:affable-berm-272914
   type: library
-  owner: opx-partner-activation
+  owner: activation
